@@ -3,10 +3,16 @@
 <p>
   • <a href="#-funcionalidades">Funcionalidades</a>
   • <a href="#-layout">Layout</a>
-  • <a href="#-como-executar-o-projeto">Como executar</a> 
 </p>
 
 ---
 
 ## 🎨 Layout
-![image](https://github.com/maa7vini/desafio-case-mind-group/blob/main/src/assets/Tela-cadastro.jpg)
+![image](https://github.com/maa7vini/projeto_tiao_pardinho_front/blob/main/src/assets/layout_sistema.jpg)
+
+---
+
+## ⚙️ Funcionalidades<p id="-funcionalidades"></p>
+
+- O sistema auxilia a pesquisar, visualizar, criar, e excluir músicas e albums da dupla Tião Carreiro e Pardinho.
+
